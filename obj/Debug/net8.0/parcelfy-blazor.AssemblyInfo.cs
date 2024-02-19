@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parcelfy-blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df234d82a86ca2b34eb83879268f03de2de4c015")]
 [assembly: System.Reflection.AssemblyProductAttribute("parcelfy-blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parcelfy-blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
