@@ -2,5 +2,5 @@
 
 public class ParcelTrackerRequest
 {
-    public string ParcelId { get; set; }
+	public string ParcelId { get; set; } = string.Empty;
 }

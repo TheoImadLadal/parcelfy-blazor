@@ -4,5 +4,5 @@ namespace parcelfy_blazor.Components.Data;
 
 public interface IParcelTrackerApiService
 {
-    Task<ParcelTracker?> GetParcelTrackingDetails(string parcelId);
+	Task<ParcelTracker?> GetParcelTrackingDetails(string parcelId);
 }

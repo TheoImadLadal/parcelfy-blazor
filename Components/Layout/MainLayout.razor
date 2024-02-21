@@ -1,23 +1,13 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    @* <div class="sidebar">
-        <NavMenu />
-    </div> *@
-
+<div class="page rz-background-color-base-800">
+    <RadzenComponents />
     <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+        <div class="top-row px-4  rz-background-color-base-800" style="color: var(--rz-text-color)">
+            By<a style="color: var(--rz-text-color)" href="https://learn.microsoft.com/aspnet/core/" target="_blank">Theo Imad Ladal</a>
         </div>
-
-        <article class="content px-4">
+        <article class="rz-background-color-base-800">
             @Body
         </article>
     </main>
-</div>
-
-<div id="blazor-error-ui">
-    An unhandled error has occurred.
-    <a href="" class="reload">Reload</a>
-    <a class="dismiss">🗙</a>
 </div>
